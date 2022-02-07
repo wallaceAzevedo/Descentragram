@@ -30,7 +30,7 @@ e a imagem e enviada a carteira e exibida na tela.
 
 - Clone o repositório
 - Instale as dependências com `npm install`
-- Abra o terminal e inicie o servidor to seu editor [`VScode`](https://code.visualstudio.com/) com `npm run start`
+- Abra o terminal e inicie o servidor do seu editor [`VScode`](https://code.visualstudio.com/) com `npm run start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
